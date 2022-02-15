@@ -23,4 +23,5 @@ Nel malaugurato caso in cui tu sia entrato nel gruppo con il preciso scopo di fa
 - https://dontasktoask.com/
 - https://stackoverflow.com/help/how-to-ask
 - Se davvero vuoi che ti vogliamo bene: http://catb.org/~esr/faqs/smart-questions.html
+
 Buona fortuna! :D
